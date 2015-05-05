@@ -21,25 +21,26 @@ import numpy as np
 cap = cv2.VideoCapture('1.avi')
 
 fgbg = cv2.BackgroundSubtractorMOG()
+ret, frame = cap.read()
 
-for k in range(1000):
+for k in range(500):
     ret, frame = cap.read()
     fgmask = fgbg.apply(frame, learningRate = 0.001)
     cv2.imshow('frame',fgmask)
-    cv2.waitKey(10)
+    cv2.waitKey(1)
 print 'Completed Once.'
 cap.release()
 
 cap = cv2.VideoCapture('1.avi')
-while(1):
+for k in range(100):
     ret, frame = cap.read()
     fgmask = fgbg.apply(frame, learningRate = 0)
     cv2.imshow('original', frame)
     cv2.imshow('frame', fgmask)
-    if cv2.waitKey(100) & 0xff == ord('q'):
-        break
+    while (1):
+        if cv2.waitKey(0) & 0xff == ord('n'):
+            break
+    print k,' frames passed'
 
 cap.release()
-
-
 cv2.destroyAllWindows()
