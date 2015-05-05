@@ -1,0 +1,908 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"destroyAllWindows"
+			],
+			[
+				"ac",
+				"active_mission_id"
+			],
+			[
+				"thre",
+				"level_threshold"
+			],
+			[
+				"ran",
+				"randomweight_levels"
+			],
+			[
+				"trh",
+				"level_threshold"
+			],
+			[
+				"ra",
+				"randomweight_levels"
+			],
+			[
+				"level",
+				"level_limit"
+			],
+			[
+				"Sta",
+				"Stable"
+			],
+			[
+				"re",
+				"related_brains"
+			],
+			[
+				"br",
+				"brains_grouped_by_phase"
+			],
+			[
+				"random",
+				"randomweight_phases"
+			],
+			[
+				"phase",
+				"phase_selected"
+			],
+			[
+				"Sele",
+				"Select_Phase_By_RandomWeight"
+			],
+			[
+				"bra",
+				"brains_grouped_by_phase"
+			],
+			[
+				"ph",
+				"phase_selected"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"P",
+				"Phase"
+			],
+			[
+				"pha",
+				"phase"
+			],
+			[
+				"Get_b",
+				"Get_Brain_With_Largest_Gap_Time"
+			],
+			[
+				"brain",
+				"brain_selected"
+			],
+			[
+				"b",
+				"brain"
+			],
+			[
+				"rela",
+				"related_brains"
+			],
+			[
+				"C",
+				"Construction"
+			],
+			[
+				"phas",
+				"phase_selected"
+			],
+			[
+				"Ra",
+				"rad2deg"
+			],
+			[
+				"p",
+				"phase_selected"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Re",
+				"ReciteNO"
+			],
+			[
+				"Mis",
+				"Missions"
+			],
+			[
+				"Miss",
+				"MissionID"
+			],
+			[
+				"ta",
+				"task_id"
+			],
+			[
+				"gen",
+				"generate_status"
+			],
+			[
+				"Act",
+				"active_mission_id"
+			],
+			[
+				"Insert",
+				"Insert_Task"
+			],
+			[
+				"Fill",
+				"Fill_In_Resources_Into_Task"
+			],
+			[
+				"Ass",
+				"assessment"
+			],
+			[
+				"pro",
+				"process_status"
+			],
+			[
+				"rec",
+				"recite_num"
+			],
+			[
+				"Rec",
+				"Recite_Number"
+			],
+			[
+				"Reci",
+				"Recite_Time"
+			],
+			[
+				"pre",
+				"previous_recite_time"
+			],
+			[
+				"Calc",
+				"Calculate_Brain"
+			],
+			[
+				"Task",
+				"TaskID"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"Time",
+				"Time_2"
+			],
+			[
+				"ctr",
+				"criterion"
+			],
+			[
+				"find",
+				"findAndModify"
+			],
+			[
+				"is",
+				"is_new_document"
+			],
+			[
+				"cri",
+				"criteria"
+			],
+			[
+				"tas",
+				"task_id"
+			],
+			[
+				"contain",
+				"container_id"
+			],
+			[
+				"ass",
+				"assessment"
+			],
+			[
+				"Abno",
+				"Abnormal"
+			],
+			[
+				"Ab",
+				"Abnormal"
+			],
+			[
+				"time",
+				"time_1"
+			],
+			[
+				"S",
+				"Significant"
+			],
+			[
+				"Abnormal_",
+				"Abnormal_Upper"
+			],
+			[
+				"as",
+				"assessment_phase"
+			],
+			[
+				"Cal",
+				"Calculate_Brain_Level"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"ser",
+				"server_response"
+			],
+			[
+				"calcu",
+				"Calculate_Degree"
+			],
+			[
+				"Calcu",
+				"Calculate_Degree"
+			],
+			[
+				"T",
+				"Time_1_Significant"
+			],
+			[
+				"Tim",
+				"Time_1"
+			],
+			[
+				"new",
+				"new_object"
+			],
+			[
+				"Tas",
+				"TaskID"
+			],
+			[
+				"iter",
+				"iterator_to_array"
+			],
+			[
+				"next",
+				"next_task"
+			],
+			[
+				"Send",
+				"Send_Next_Task_To_Client"
+			],
+			[
+				"Resour",
+				"ResourceCache"
+			],
+			[
+				"Res",
+				"ResourceCache"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"cu",
+				"curl_Morphy"
+			],
+			[
+				"cur",
+				"curl_SimpleSense"
+			],
+			[
+				"Wor",
+				"Words"
+			],
+			[
+				"vga",
+				"VGA_0_BASE"
+			],
+			[
+				"SH",
+				"Sh_step"
+			],
+			[
+				"VGA",
+				"VGA_0_BASE"
+			],
+			[
+				"bi",
+				"bird_h"
+			],
+			[
+				"fa",
+				"FALSE"
+			],
+			[
+				"press",
+				"press_cnt"
+			],
+			[
+				"Pr",
+				"Print_Bird"
+			],
+			[
+				"In",
+				"Init_Bg"
+			],
+			[
+				"NO",
+				"NO_3"
+			],
+			[
+				"shif",
+				"Shift_Pl"
+			],
+			[
+				"H",
+				"H_G"
+			],
+			[
+				"bird",
+				"bird_h"
+			],
+			[
+				"W_",
+				"W_P"
+			],
+			[
+				"I_",
+				"I_P"
+			],
+			[
+				"H_P",
+				"H_P_up"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"str",
+				"struct	struct"
+			],
+			[
+				"Sh",
+				"Sh_step"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Contro",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/OpenCV/opencv/sources/3rdparty/ffmpeg/readme.txt",
+		"/D/OpenCV/opencv/build/LICENSE",
+		"/D/Github/HelloWord/src/components/HelloWord/DataBase/User.php",
+		"/D/Github/HelloWord/src/components/HelloWord/Core/Algorithm.php",
+		"/D/Github/HelloWord/src/components/HelloWord/Core/Recite.php",
+		"/D/Github/HelloWord/src/wwwroot/get_next_task.php",
+		"/D/Github/HelloWord/src/wwwroot/generate_task.php",
+		"/D/Github/HelloWord/src/wwwroot/push_response.php",
+		"/D/Github/HelloWord/src/components/HelloWord/DataBase/Container.php",
+		"/D/Github/HelloWord/private/tools/MVJ/Default.ini",
+		"/D/Github/HelloWord/src/components/HelloWord/DataBase/Database.php",
+		"/D/Github/HelloWord/docs/DataStructure.txt",
+		"/D/Github/HelloWord/src/components/HelloWord/User.php",
+		"/D/Github/HelloWord/src/components/HelloWord/DataBase/Brain.php",
+		"/D/Github/HelloWord/src/components/HelloWord/DataBase/Response.php",
+		"/D/Github/HelloWord/private/tools/simulator/Simulator.py",
+		"/D/Github/HelloWord/docs/Summary.md",
+		"/D/Github/HelloWord/docs/Logic.txt",
+		"/D/Github/HelloWord/docs/Algorithm.txt",
+		"/D/Github/HelloWord/private/tools/MVJ/Functions.pas",
+		"/C/Users/hp/Desktop/tianchi.py",
+		"/D/Github/goagent/README.md",
+		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/HogDetection.h.dump",
+		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/HogDetection.h",
+		"/D/Github/HelloWord/src/wwwroot/test/liang.php",
+		"/D/Github/HelloWord/private/tools/MVJ/CoreV33.pas",
+		"/D/Github/HelloWord/docs/Procedure.txt",
+		"/D/Github/HelloWord/src/wwwroot/simulate.php",
+		"/D/Github/HelloWord/src/wwwroot/recite.php",
+		"/D/Github/HelloWord/src/wwwroot/test/test.php",
+		"/C/Users/hp/Desktop/test.py",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Github/goagent/local/proxy.ini",
+		"/D/Github/HelloWord/src/sftp-config.json",
+		"/D/Github/HelloWord/src/components/HelloWord/DataBase/Sense.php",
+		"/C/Users/hp/Desktop/test.php",
+		"/C/Users/hp/Desktop/test.html",
+		"/D/Github/Thesaurus/src/tools/test.py",
+		"/D/Github/Thesaurus/src/tools/util.py",
+		"/D/Github/Thesaurus/src/tools/Phonetic.py",
+		"/D/Github/Thesaurus/src/tools/MongoDB.py",
+		"/D/Github/Thesaurus/src/tools/WordNet.py",
+		"/D/Github/Thesaurus/src/tools/Youdao.py",
+		"/D/Github/Thesaurus/Youdao",
+		"/D/Github/Thesaurus/data/WordNet/basic/Sense.txt",
+		"/F/Documents/Study@THU/2014年秋季学期/SRT/BIGDATA/8月1日流量数据按基站ID分类/34A8000F2881",
+		"/F/Documents/Study@THU/2014年秋季学期/SRT/BIGDATA/8月1日流量数据按基站ID分类/0000000F0AB1",
+		"/D/Github/Thesaurus/data/WordNet/basic/Word.txt",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Pylinter/README.rst",
+		"/D/Github/get-pip.py",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Pylinter/Default (Windows).sublime-keymap",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Pylinter.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Github/Packages/User/Preferences.sublime-settings",
+		"/D/Github/Packages/Pylinter/Default (Windows).sublime-keymap",
+		"/D/Github/Packages/User/Pylinter.sublime-settings",
+		"/D/Github/Packages/User/Distraction Free.sublime-settings",
+		"/D/Github/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/F/Documents/Study@THU/2014年秋季学期/数字系统设计/Experiment/SoPC实验/top_level_ref.v",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/inv_cipher.m",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/sub_bytes.m",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/shift_rows.m",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/add_round_key.m",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/mix_columns.m",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/cipher.m",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/key_expansion.m",
+		"/F/Documents/Study@THU/2014年秋季学期/数字系统设计/SoPC实验/software_ref.c",
+		"/D/Github/THU-DSD/LD/Flappy Bird_v2.1.c",
+		"/F/Altera/Project/2014Fall/LED_UART/software/hello_world/hello_world.c",
+		"/C/Users/hp/Desktop/Rijndael/Rijndael.cpp",
+		"/C/Users/hp/Desktop/Rijndael/Test.cpp",
+		"/C/Users/hp/Desktop/Rijndael/Rijndael.h",
+		"/F/Documents/Study@THU/2014年秋季学期/编码引论/Project03/Matlab Code/s_box_gen.m",
+		"/C/Users/hp/Downloads/1-29.torrent",
+		"/C/Users/hp/Desktop/RIJNDAEL.H",
+		"/C/Users/hp/Desktop/RIJNDAEL.CPP",
+		"/C/Users/hp/Desktop/Flappy Bird_v2.c",
+		"/D/Github/THU-DSD/LD/Flappy Bird_v2.c",
+		"/F/Documents/Study@THU/2014年秋季学期/数据库/Experiment/01/experiment01.sql",
+		"/F/Documents/Study@THU/2014年秋季学期/计量经济学/homework1/homework01.do",
+		"/C/Users/hp/Documents/Visual Studio 2012/Projects/2014 Fall/Flappy Bird/Flappy Bird/flappy.cpp",
+		"/F/Documents/Study@THU/2014年秋季学期/数字系统设计/SoPC实验/top_level_ref.v",
+		"/C/Users/hp/Desktop/Undergraduate transcript in English.htm",
+		"/C/Users/hp/Desktop/连连看-2012011085-孙旺宇/源代码/linkgame/detect.m",
+		"/C/Users/hp/Desktop/连连看-2012011085-孙旺宇/源代码/linkgame/Isline.m"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Github\\HelloWord\\src\\components\\HelloWord\\Core,*.php",
+			"D:\\Github\\HelloWord\\src\\components\\HelloWord\\Database,*.php",
+			"D:\\Github\\HelloWord\\src\\components\\HelloWord\\Core,*.php",
+			"D:\\Github\\HelloWord\\src\\components\\HelloWord,*.php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"",
+			"related_brains",
+			"phase",
+			"Select_Brain_With_Largest_Gap_Time",
+			"brain_selected",
+			"Calculate_Next_TaskID",
+			"Return",
+			"* Returns",
+			"Returns",
+			"@ parameter",
+			"@parameter",
+			"::",
+			"Calculate_Next_Task_ID",
+			"-",
+			"Insert_Task",
+			"ResourceID",
+			"parent",
+			"response",
+			"Calculate_Brain",
+			"find",
+			"pop_result",
+			"Fill_In_Resources_Into_Task",
+			"TRUE",
+			"True",
+			"TRUE",
+			"fields",
+			"criteria",
+			"parameter",
+			"criteria",
+			"query",
+			"findAndModify",
+			"criterion",
+			"findandmodify",
+			"false",
+			"False",
+			"Stable",
+			"Time_1",
+			"time_1",
+			"$phase =",
+			"Time_1",
+			"$result =",
+			"return",
+			"task_id",
+			"$full_mark",
+			"Time_1",
+			"response",
+			"['Time_1']",
+			"$assessment['Phase']",
+			"Update",
+			"find",
+			":",
+			"a",
+			"Task",
+			"Get_Next_Task",
+			"get_next_task",
+			"task",
+			"juices",
+			"people",
+			"PHP_EOL",
+			"Push_Next_Task",
+			"Pop_Next_Task",
+			"Process_Response",
+			"Phonetics",
+			"get_phonetic",
+			"get_phonetics",
+			"_WordCode",
+			"lines",
+			"lines_up",
+			"line_up",
+			"mp3play",
+			"re.",
+			"strip",
+			"re",
+			"re.",
+			" re",
+			"re",
+			"append",
+			"j",
+			"j(",
+			"ctrl+alt+z",
+			"ctrl+alt+c",
+			"pylint",
+			"alt+u",
+			"\n",
+			"alt+.",
+			"run",
+			"makekey",
+			"main",
+			"Vga_Set_Pixel",
+			"Vga_Clr_Pixel",
+			"Vga_Set_Pixel",
+			"Vga_Clr_Pixel",
+			"VGA_0_BASE",
+			"w",
+			"h",
+			"row",
+			"int row",
+			"w",
+			"p->w",
+			"row",
+			"col",
+			"Init_Bg",
+			"Pillar",
+			"Background",
+			"0",
+			"time",
+			"Time",
+			"TIME",
+			"Time",
+			"time",
+			"H_G",
+			"k",
+			"oRESET",
+			"（0）",
+			"(2)",
+			"（",
+			"unread",
+			"announcement",
+			"first de",
+			"DEPT",
+			"INSERT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"* @return",
+			"@param",
+			"true",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.py",
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 79.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Github/HelloWord/HelloWord.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
