@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"im",
+				"imshow"
+			],
+			[
+				"fg",
+				"fgmask"
+			],
+			[
 				"de",
 				"destroyAllWindows"
 			],
@@ -391,8 +399,32 @@
 			"file": "test.py",
 			"settings":
 			{
-				"buffer_size": 1015,
+				"buffer_size": 1234,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BackgroundDetection.py",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/Documents/Study@THU/2015年春季学期/劳动经济学/Homework/Homework03.do",
+			"settings":
+			{
+				"buffer_size": 1217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/Documents/Study@THU/2014年秋季学期/计量经济学/homework1/homework01.do",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -496,6 +528,13 @@
 	},
 	"file_history":
 	[
+		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Github/goagent/local/proxy.ini",
+		"/F/Documents/Study@THU/2014年秋季学期/计量经济学/homework1/homework01.do",
+		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/HogDetection.h.dump",
+		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/main.cpp",
+		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/HogDetection.h",
+		"/D/Program Files/MATLAB/R2012a/toolbox/images/images/edge.m",
 		"/D/OpenCV/opencv/sources/3rdparty/ffmpeg/readme.txt",
 		"/D/OpenCV/opencv/build/LICENSE",
 		"/D/Github/HelloWord/src/components/HelloWord/DataBase/User.php",
@@ -518,8 +557,6 @@
 		"/D/Github/HelloWord/private/tools/MVJ/Functions.pas",
 		"/C/Users/hp/Desktop/tianchi.py",
 		"/D/Github/goagent/README.md",
-		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/HogDetection.h.dump",
-		"/F/Documents/Study@THU/2015年春季学期/数字图像处理/行人统计/示例程序/HogDetection_code/HogDetection.h",
 		"/D/Github/HelloWord/src/wwwroot/test/liang.php",
 		"/D/Github/HelloWord/private/tools/MVJ/CoreV33.pas",
 		"/D/Github/HelloWord/docs/Procedure.txt",
@@ -528,7 +565,6 @@
 		"/D/Github/HelloWord/src/wwwroot/test/test.php",
 		"/C/Users/hp/Desktop/test.py",
 		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/D/Github/goagent/local/proxy.ini",
 		"/D/Github/HelloWord/src/sftp-config.json",
 		"/D/Github/HelloWord/src/components/HelloWord/DataBase/Sense.php",
 		"/C/Users/hp/Desktop/test.php",
@@ -550,7 +586,6 @@
 		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
 		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Pylinter/Default (Windows).sublime-keymap",
 		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/User/Pylinter.sublime-settings",
-		"/C/Users/hp/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/D/Github/Packages/User/Preferences.sublime-settings",
 		"/D/Github/Packages/Pylinter/Default (Windows).sublime-keymap",
 		"/D/Github/Packages/User/Pylinter.sublime-settings",
@@ -582,7 +617,6 @@
 		"/C/Users/hp/Desktop/Flappy Bird_v2.c",
 		"/D/Github/THU-DSD/LD/Flappy Bird_v2.c",
 		"/F/Documents/Study@THU/2014年秋季学期/数据库/Experiment/01/experiment01.sql",
-		"/F/Documents/Study@THU/2014年秋季学期/计量经济学/homework1/homework01.do",
 		"/C/Users/hp/Documents/Visual Studio 2012/Projects/2014 Fall/Flappy Bird/Flappy Bird/flappy.cpp",
 		"/F/Documents/Study@THU/2014年秋季学期/数字系统设计/SoPC实验/top_level_ref.v",
 		"/C/Users/hp/Desktop/Undergraduate transcript in English.htm",
@@ -609,6 +643,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			" ",
+			"244",
+			" ",
+			"244",
 			"\"",
 			"related_brains",
 			"phase",
@@ -732,11 +770,12 @@
 			"INSERT"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"* @return",
 			"@param",
 			"true",
@@ -759,15 +798,15 @@
 					"file": "test.py",
 					"settings":
 					{
-						"buffer_size": 1015,
+						"buffer_size": 1234,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								810,
-								810
+								823,
+								823
 							]
 						],
 						"settings":
@@ -827,7 +866,241 @@
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 378.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BackgroundDetection.py",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/Documents/Study@THU/2015年春季学期/劳动经济学/Homework/Homework03.do",
+					"settings":
+					{
+						"buffer_size": 1217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/F/Documents/Study@THU/2014年秋季学期/计量经济学/homework1/homework01.do",
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
